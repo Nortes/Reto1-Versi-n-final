@@ -1,3 +1,0 @@
-Ta1, Th1, Cb1, Cg1, Ac1, Af1, Dd1, Re1, a2, b2, c2, d2, e2, f2, g2, h2
-
-Ta8, Th8, Cb8, Cg8, Ac8, Af8, Dd8, Re8, a7, b7, c7, d7, e7, f7, g7, h7
